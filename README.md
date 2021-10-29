@@ -1,6 +1,6 @@
 ## E-Commerce
 
-This project is a complete back-end application for an e-commerce site. It uses Nodejs and follows OOP practices to deliver a fully working server and generate back-end data to the user. 
+This project is a complete back-end application for an e-commerce site. It uses Nodejs and follows OOP practices to deliver a fully working server and generate back-end data to the user. Once installed, the user is able to see, create, update, and delete data dynamically via different API routes.
 
 ## Technologies Used 
 
@@ -12,9 +12,13 @@ This project is a complete back-end application for an e-commerce site. It uses 
 * MYSQL2
 * dotenv
 
-## Demo 
+## Video Demo 
+
+https://watch.screencastify.com/v/ol3Fk40OK5lEbBfSgioV
 
 ## Code Snippet
+
+<img width="618" alt="Screen Shot 2021-10-29 at 2 30 22 AM" src="https://user-images.githubusercontent.com/89226867/139386981-bd2bd81b-ecc4-416f-849b-1f3c43cc1b74.png">
 
 ## Installation Steps 
 
